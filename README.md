@@ -13,4 +13,4 @@ Second, I want to start with my mistakes! Of course, this is a first attempt for
 Most of all, have lots of fun and mess around with the numbers! That's how I learned stuff!
 
 ### I hope we have lots of fun! 
-![Scattered Bernie](https://github.com/chloefouilloux/Oikos_Workshop/blob/main/Bernie.png?raw=true)
+![Froggie Plot](https://github.com/chloefouilloux/Ranitomeya_Plot/blob/main/Ranitomeya%20Plot.png)
